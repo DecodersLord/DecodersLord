@@ -7,7 +7,7 @@ Full-stack Developer | Salesforce Developer | DevOps
 Skilled in both frontend and backend development, I leverage my experience to design robust and efficient applications. Proficient in Salesforce's declarative tools, Apex, and Lightning Web Component (LWC) development. Enjoy tackling complex technical challenges and delivering seamless solutions.
 
 * 🌍  I'm based in London, ON, Canada
-* 🖥️  See my portfolio at [Visit My Website](http://https://priyanksevak.netlify.app/)
+* 🖥️  See my portfolio at [Visit My Website](https://priyanksevak.vercel.app/)
 * ✉️  You can contact me at [priyank.sevak1996@gmail.com](mailto:priyank.sevak1996@gmail.com)
 * 🧠  I'm learning TypeScript, React Native and Rust
 * ⚡  While my focus is on software and web development, I’m passionate about game development and aspire to craft immersive experiences with Unity and Unreal Engine.
