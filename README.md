@@ -23,28 +23,6 @@ Currently building:
 
 ---
 
-### 🧠 AI & Backend Focus
-
-- Python
-- LLM APIs (Gemini / OpenAI-style tool calling)
-- Agent Orchestration
-- Prompt Engineering
-- REST APIs
-- System Design Fundamentals
-- State Management & Control Flow
-
----
-
-### 💻 Full-Stack & Enterprise Background
-
-- JavaScript / TypeScript
-- React
-- Node.js / Express
-- MongoDB / PostgreSQL / MySQL
-- Salesforce (Apex, LWC, Flow)
-- Docker
-- Linux
-
 ### Skills
 ### 🧠 AI & Backend (Primary Focus)
 
